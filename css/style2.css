@@ -1,0 +1,133 @@
+
+#btn
+{
+	
+	background-color: transparent;
+    color: white;
+    border: none;
+}	
+#navigate
+{
+	position:absolute;
+	top: 5%;
+    left: 12%;
+    width: 22%;
+	
+}
+
+.bm li{
+	list-style:none;
+	
+}
+.bm li:before {
+	 
+	content: "\00BB \0020";
+	     
+}
+.bm li a
+{
+	    text-decoration: none;
+		    color: black;
+}
+.bm li a:hover
+{
+	   background-color:white;
+}
+.pg li
+{
+	list-style-image: url('dot1.gif');
+}
+#pages{
+	    padding-left: 14px;
+}
+#search
+{
+	padding-left:15%;
+}
+#container
+{
+	    position: absolute;
+    top: 7%;
+    left: 32%;
+    width: 60%;
+    height: 100%;
+}
+.gp{
+	
+	font-size: 132%;
+    font-weight: bolder;
+	margin: 0;
+    padding: 0;
+}
+.gp g{
+	    color: #9a5137;
+}
+.gp k{
+	opacity: 0.7;
+}
+.sc{
+	    margin: 2px;
+    padding: 2px;
+	font-size: 80%;
+}
+.sc v{
+	    color: #a02121;
+}
+.sc r{
+	    color: #722626;
+}
+#op{
+	width:75%;
+}
+.lt1 li{
+	list-style-image: url('arrow1.png');
+}
+.lt1{
+	padding-top:12px;
+}
+
+blockquote {
+   width:75%;
+   
+  background: #9d9999;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+#qt{
+	width:90%;
+}
+#cc2{
+	    padding-top: 26px;
+
+		
+		
+		
+		
+/*this is separate*/	
+	
+		
+		
+/*this is separate*/	
+
+
